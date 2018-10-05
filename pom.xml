@@ -6,7 +6,7 @@
 
   <groupId>es.upm.miw.SVC</groupId>
   <artifactId>Manuel.Puchades</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>${project.groupId}.${project.artifactId}</name>
