@@ -12,6 +12,7 @@ La carpeta .git comprimida en un fichero nombre-apellido.zip
 > ##### Asignatura: *Ingeniería Web: Visión General*
 
 ### Estado del código
+La rama master se ha dejado buggeada para que se vea la necesidad de aplicar los hotfix
 
 ### Tecnologías necesarias
 * Java
